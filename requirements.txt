@@ -2,3 +2,4 @@ streamlit
 nltk
 sklearn
 click==8
+scikit-learn
